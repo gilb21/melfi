@@ -5,9 +5,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Shop Homepage - Start Bootstrap Template</title>
+        <title>Melfi</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="favicon.png" />
         <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -82,7 +82,7 @@
                     <form class="d-flex">
                         <button class="btn btn-outline-dark" type="submit">
                             <i class="bi-cart-fill me-1"></i>
-                            Cart
+                            Carrito
                             <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
                         </button>
                     </form>
@@ -99,7 +99,7 @@
     <!--Section heading-->
     <h2 class="h1-responsive font-weight-bold text-center my-4">Contacto</h2>
     <!--Section description-->
-    <p class="text-center w-responsive mx-auto mb-5">Para contactarse con nuestro equipo de ventas envíe un email a: <a href="mailto:gino.labella1@gmail.com">gino.labella1@gmail.com</a></p>
+    <p class="text-center w-responsive mx-auto mb-5">Para contactarse con nuestro equipo de ventas envíe un email a: <br><a href="mailto:gino.labella1@gmail.com">gino.labella1@gmail.com</a><br><a href="mailto:sr.rjpc@gmail.com">sr.rjpc@gmail.com</a></p>
  
     <div class="row">
 
@@ -114,7 +114,7 @@
                     <div class="col-md-6">
                         <div class="md-form mb-0">
                             <input type="text" id="name" name="name" class="form-control">
-                            <label for="name" class="">Your name</label>
+                            <label for="name" class="">Su nombre</label>
                         </div>
                     </div>
                     <!--Grid column-->
@@ -123,7 +123,7 @@
                     <div class="col-md-6">
                         <div class="md-form mb-0">
                             <input type="text" id="email" name="email" class="form-control">
-                            <label for="email" class="">Your email</label>
+                            <label for="email" class="">Su email</label>
                         </div>
                     </div>
                     <!--Grid column-->
@@ -135,9 +135,9 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="md-form mb-0">
-                            <p>Cómo se enteró sobre nuestros productos de cosmética natural?</p>
+                           
                             <input type="text" id="subject" name="subject" class="form-control">
-                            <label for="subject" class="">Subject</label>
+                            <label for="subject" class="">Asunto</label>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
 
                         <div class="md-form">
                             <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                            <label for="message">Your message</label>
+                            <label for="message">Escriba aquí su mensaje</label>
                         </div>
 
                     </div>
@@ -171,15 +171,11 @@
         <div class="col-md-3 text-center">
             <ul class="list-unstyled mb-0">
                 <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                    <p>San Francisco, CA 94126, USA</p>
+                    <p>Buenos Aires, CP 1407, Argentina</p>
                 </li>
 
                 <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                    <p>+ 01 234 567 89</p>
-                </li>
-
-                <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                    <p>contact@mdbootstrap.com</p>
+                    <p>+ 54 9 11 6851 1150</p>
                 </li>
             </ul>
         </div>
@@ -193,7 +189,7 @@
         </section>
         <!-- Footer-->
         <footer class="py-5 bg-dark">
-            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Your Website 2021</p></div>
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Todos los derechos recervados 2021</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
