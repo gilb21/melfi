@@ -23,7 +23,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
 <h1 class="animate__animated animate__bounce">Melfi<i class="fas fa-cannabis"></i></h1>
 
 
