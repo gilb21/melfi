@@ -68,7 +68,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#!">Melfi<i class="fas fa-cannabis"></i></a>
+                <a class="navbar-brand" href="index.html">Melfi<i class="fas fa-cannabis"></i></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
@@ -99,7 +99,10 @@
     <!--Section heading-->
     <h2 class="h1-responsive font-weight-bold text-center my-4">Contacto</h2>
     <!--Section description-->
-    <p class="text-center w-responsive mx-auto mb-5">Para contactarse con nuestro equipo de ventas envíe un email a: <a href="mailto:gino.labella1@gmail.com">gino.labella1@gmail.com</a></p>
+    <p class="text-center w-responsive mx-auto mb-5">Para contactarse con nuestro equipo de ventas envíe un email a:
+        <br>
+         <a href="mailto:gino.labella1@gmail.com">gino.labella1@gmail.com</a> // 
+    <a href="mailto:sr.rjpc@gmail.com">sr.rjpc@gmail.com</a></p>
  
     <div class="row">
 
@@ -135,7 +138,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="md-form mb-0">
-                            <p>Cómo se enteró sobre nuestros productos de cosmética natural?</p>
+                           
                             <input type="text" id="subject" name="subject" class="form-control">
                             <label for="subject" class="">Subject</label>
                         </div>
@@ -171,7 +174,7 @@
         <div class="col-md-3 text-center">
             <ul class="list-unstyled mb-0">
                 <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                    <p>San Francisco, CA 94126, USA</p>
+                    <p>Buenos Aires, CP 1407, Argentina</p>
                 </li>
 
                 <li><i class="fas fa-phone mt-4 fa-2x"></i>
